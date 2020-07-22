@@ -1,0 +1,15 @@
+{"userId":"","sensor":"LightSensor","timeStamp":1589471575428,"light":71.5857162475586}
+{"userId":"","sensor":"LightSensor","timeStamp":1589471576466,"light":61.842857360839844}
+{"userId":"","sensor":"LightSensor","timeStamp":1589471577566,"light":24.91428565979004}
+{"userId":"","sensor":"LightSensor","timeStamp":1589471579350,"light":121.07142639160156}
+{"userId":"","sensor":"LightSensor","timeStamp":1589471580367,"light":156.08570861816406}
+{"userId":"","sensor":"LightSensor","timeStamp":1589471581428,"light":253.91429138183594}
+{"userId":"","sensor":"LightSensor","timeStamp":1589471582487,"light":389.5714416503906}
+{"userId":"","sensor":"LightSensor","timeStamp":1589471585867,"light":279.4857482910156}
+{"userId":"","sensor":"LightSensor","timeStamp":1589471586959,"light":65.3857192993164}
+{"userId":"","sensor":"LightSensor","timeStamp":1589471588737,"light":278.3000183105469}
+{"userId":"","sensor":"LightSensor","timeStamp":1589471589745,"light":85.82554626464844}
+{"userId":"","sensor":"LightSensor","timeStamp":1589471590747,"light":119.04041290283203}
+{"userId":"","sensor":"LightSensor","timeStamp":1589471591776,"light":185.96507263183594}
+{"userId":"","sensor":"LightSensor","timeStamp":1589471592909,"light":314.8021545410156}
+{"userId":"","sensor":"LightSensor","timeStamp":1589471594018,"light":5.752671241760254}
